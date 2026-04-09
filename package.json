@@ -229,6 +229,10 @@
       "types": "./dist/plugin-sdk/nextcloud-talk.d.ts",
       "default": "./dist/plugin-sdk/nextcloud-talk.js"
     },
+    "./plugin-sdk/roam": {
+      "types": "./dist/plugin-sdk/roam.d.ts",
+      "default": "./dist/plugin-sdk/roam.js"
+    },
     "./plugin-sdk/slack": {
       "types": "./dist/plugin-sdk/slack.d.ts",
       "default": "./dist/plugin-sdk/slack.js"

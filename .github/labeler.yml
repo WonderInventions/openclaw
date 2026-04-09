@@ -59,6 +59,11 @@
       - any-glob-to-any-file:
           - "extensions/nostr/**"
           - "docs/channels/nostr.md"
+"channel: roam":
+  - changed-files:
+      - any-glob-to-any-file:
+          - "extensions/roam/**"
+          - "docs/channels/roam.md"
 "channel: signal":
   - changed-files:
       - any-glob-to-any-file:
